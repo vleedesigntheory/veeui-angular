@@ -1,0 +1,25 @@
+{
+  "name": "veeui-angular",
+  "version": "0.1.0",
+  "description": "Vee UI Library based on Angular Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vleedesigntheory/veeui-angular.git"
+  },
+  "keywords": [
+    "vee",
+    "ui",
+    "angular",
+    "ui component library"
+  ],
+  "author": "veeui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vleedesigntheory/veeui-angular/issues"
+  },
+  "homepage": "https://github.com/vleedesigntheory/veeui-angular#readme"
+}
